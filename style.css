@@ -1,0 +1,34 @@
+.body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
+}
+.google-fonts {
+  font-family: "Josefin Sans" ,sans-serif;
+  font-size: 200%;
+}
+.decoration {
+  text-shadow: 5px 5px 10px rgb(255, 192, 203);
+  border-bottom: solid 3px rgb(115,115,114);
+  letter-spacing: 1.2em;
+  text-align: center;
+}
+.font-bold {
+  font-weight: bold;	
+}
+.M {
+  color: skyblue;
+}
+.P {
+  color: rgb(255, 192, 203);
+}
+.text-pink {
+  color:  rgb(255, 192, 203);
+  text-align: center;
+}
+.text-blue {
+  color: skyblue;
+  text-align: center;
+}
+.black {
+  text-align: center;
+}
